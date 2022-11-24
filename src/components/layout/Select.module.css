@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+}
+.container label {
+    font-size: 22px;
+    margin-bottom: 0.3em;
+    color: #4F4F4F;
+}
+.container select{
+    padding: 0.5em;
+    font-size: 20px;
+    background-color:#005A5B;
+    color: #fff;
+    border: none;
+    border-radius: 0.2em;
+}
