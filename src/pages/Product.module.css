@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 5em;
+    flex-wrap: wrap;
+    
+}
+.productBox {
+   text-align: center;
+   width: 350px;
+   border-radius: 0.5em;
+   box-shadow: 3px 3px 3px 3px #C0C0C0;
+   margin-right: 2em;
+   margin-left: 2em;
+   margin-bottom: 4em;
+}
+.productBox img {
+    width: 12em;
+}
+

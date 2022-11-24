@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2em;
+}
+.divProduct {
+    display: flex;
+    background-color:#DCDCDC;
+    border-radius: 0.5em;
+    padding: 0.6em;
+    font-size: 25px;
+    width: 30em;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+
+}
+.divProduct img {
+    width: 3em;
+}
+
+.divProduct p{
+    width: 30em;
+    margin-left: 0.5em;
+}
+.divProduct div {
+    border-left: 0.2em solid #008C67;
+    border-right: 0.2em solid #008C67;
+    border-radius: 1em;
+    width: 3em;
+    text-align: center;
+    font-weight: bold;
+}
+.divProduct button {
+    border: none;
+    width: 5em;
+    font-size: 22px;
+    background: none;
+    
+}
+.divProduct button:hover{
+    color: 	#B22222;
+}

@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.content p {
+    width: 30em;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0.5em;
+}
+.content img {
+    margin-right: 10em;
+    width: 30em;
+}
+.content h2{
+    font-size: 30px;
+    margin-bottom: 1em;
+    text-align: center;
+    color: #003840;
+}
+.p{
+    margin-top: 1em;
+    font-size: 30px;
+    color: #005A5B;
+}
