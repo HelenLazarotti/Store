@@ -1,0 +1,24 @@
+{
+    "pacotes": [
+        
+    ],
+
+    "planos": [
+        {
+            "id": 1,
+            "name": "1º Limpeza",
+            "description": "R$300 a R$400"
+        },
+        {
+            "id": 2,
+            "name": "Dezembro a Março",
+            "description": "R$350 (mensal)"
+        },
+        {
+            "id": 3,
+            "name": "Anual",
+            "description": "R$280 (mensal)"
+        }
+    ]
+    
+}
